@@ -69,23 +69,28 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🚗 Driver Drowsiness Detection](https://github.com/MytreshRavi/Driver-Drowsiness-Detection-using-Haar-Cascade-Classifier) | IEEE Published · 95%+ accuracy real-time fatigue detection | Python, OpenCV, Dlib, CNN |
+| [📡 IoT Environmental Monitor](https://github.com/MytreshRavi/Real-Time-Gas-Temperature-Humidity-Monitoring-IoT-Project-with-MQTT-InfluxDB-Grafana) | Sub-second telemetry for gas, temp & humidity with dashboards | Python, MQTT, InfluxDB, Grafana |
+| [⚙️ GitHub Actions CI/CD](https://github.com/MytreshRavi/GitHub-Actions) | Automated CI/CD pipelines and workflows | YAML, GitHub Actions, HTML |
+| [☁️ Python CI/CD on Azure](https://github.com/MytreshRavi/Python-CICD-Project-Azure) | Azure cloud deployment pipeline with Bicep IaC | Python, Azure, Bicep |
+| [☕ Java Maven CI/CD](https://github.com/MytreshRavi/Java-Maven-CICD) | Java build and deploy pipeline with Maven | Java, Maven, GitHub Actions |
+| [🌐 Personal Website](https://github.com/MytreshRavi/Personal_Website) | Portfolio site | HTML, CSS, JavaScript |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MytreshRavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MytreshRavi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MytreshRavi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MytreshRavi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MytreshRavi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
