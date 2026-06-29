@@ -1,6 +1,6 @@
 <!-- Profile Views Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MytreshRavi&label=Profile%20Views&color=0e75b6&style=flat" alt="MytreshRavi" />
+  <img src="https://komarev.com/ghpvc/?username=MytreshR&label=Profile%20Views&color=0e75b6&style=flat" alt="MytreshR" />
 </p>
 
 <!-- Animated Header -->
@@ -21,6 +21,17 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 - 🌐 Built FastAPI backends that accelerated hardware workflows by **40–50%**
 - 🤖 Deep interest in **AI/ML, real-time systems**, and **cloud infrastructure**
 - 📍 Based in **New Jersey, USA**
+
+---
+
+## 💼 Experience Highlights
+
+| Company | Role | Period |
+|---|---|---|
+| 🏢 **Xoriant Solutions** | Senior Software Engineer (Cloud & DevOps) | Jun 2024 – Feb 2026 |
+| 🏢 **Synectiks** | Site Reliability Engineer | Jan 2021 – Nov 2023 |
+| 🏢 **S&P Global** | Software Engineer (ETL/Data) | Prior |
+| 🏢 **Qualcomm** | Software Engineer (Backend/Automation) | Prior |
 
 ---
 
@@ -62,6 +73,7 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 ### AI / ML & Tools
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -73,24 +85,45 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 
 | Project | Description | Tech |
 |---|---|---|
-| [🚗 Driver Drowsiness Detection](https://github.com/MytreshRavi/Driver-Drowsiness-Detection-using-Haar-Cascade-Classifier) | IEEE Published · 95%+ accuracy real-time fatigue detection | Python, OpenCV, Dlib, CNN |
-| [📡 IoT Environmental Monitor](https://github.com/MytreshRavi/Real-Time-Gas-Temperature-Humidity-Monitoring-IoT-Project-with-MQTT-InfluxDB-Grafana) | Sub-second telemetry for gas, temp & humidity with dashboards | Python, MQTT, InfluxDB, Grafana |
-| [⚙️ GitHub Actions CI/CD](https://github.com/MytreshRavi/GitHub-Actions) | Automated CI/CD pipelines and workflows | YAML, GitHub Actions, HTML |
-| [☁️ Python CI/CD on Azure](https://github.com/MytreshRavi/Python-CICD-Project-Azure) | Azure cloud deployment pipeline with Bicep IaC | Python, Azure, Bicep |
-| [☕ Java Maven CI/CD](https://github.com/MytreshRavi/Java-Maven-CICD) | Java build and deploy pipeline with Maven | Java, Maven, GitHub Actions |
-| [🌐 Personal Website](https://github.com/MytreshRavi/Personal_Website) | Portfolio site | HTML, CSS, JavaScript |
+| [🚗 Driver Drowsiness Detection](https://github.com/MytreshR/Driver-Drowsiness-Detection-using-Haar-Cascade-Classifier) | IEEE Published · 95%+ accuracy real-time fatigue detection | Python, OpenCV, Dlib, CNN |
+| [📡 IoT Environmental Monitor](https://github.com/MytreshR/Real-Time-Gas-Temperature-Humidity-Monitoring-IoT-Project-with-MQTT-InfluxDB-Grafana) | Sub-second telemetry for gas, temp & humidity with dashboards | Python, MQTT, InfluxDB, Grafana |
+| [⚙️ GitHub Actions CI/CD](https://github.com/MytreshR/GitHub-Actions) | Automated CI/CD pipelines and workflows | YAML, GitHub Actions, HTML |
+| [☁️ Python CI/CD on Azure](https://github.com/MytreshR/Python-CICD-Project-Azure) | Azure cloud deployment pipeline with Bicep IaC | Python, Azure, Bicep |
+| [☕ Java Maven CI/CD](https://github.com/MytreshR/Java-Maven-CICD) | Java build and deploy pipeline with Maven | Java, Maven, GitHub Actions |
+| [🌐 Personal Website](https://github.com/MytreshR/Personal_Website) | Portfolio site | HTML, CSS, JavaScript |
+
+---
+
+## 🧠 Currently Learning
+
+- 🤖 **LangChain & LangGraph** — Building agentic AI workflows and multi-step reasoning pipelines
+- 🐹 **Go (Golang)** — Exploring high-performance backend development
+- 🏗️ **Microsoft Fabric** — Data engineering with Delta Lake and medallion architecture
+- ☁️ **Advanced Kubernetes** — Service mesh (Istio), multi-cluster strategies
+
+---
+
+## 📜 Certifications
+
+| Badge | Certification |
+|---|---|
+| ☁️ | AWS Cloud Practitioner Essentials |
+| 🐧 | Linux Server Management & Security |
+| 🤖 | Generative AI Fundamentals — Databricks |
+| 🐍 | Python Essential Training |
+| ☁️ | AWS Essential Training for Developers |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MytreshRavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MytreshRavi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MytreshR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MytreshR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MytreshRavi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MytreshR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -100,7 +133,8 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mytresh-ravi-050349140/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MytreshRavi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MytreshR)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mytreshravi.xyz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mytreshravi26@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE_Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/10100209)
 
@@ -111,5 +145,5 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 <div align="center">
   <i>💡 "Building systems that scale, solving problems that matter."</i>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Open+to+Full-Time+SWE+%2F+Backend+%2F+DevOps+roles+%F0%9F%9A%80" alt="Open to work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Open+to+Full-Time+SWE+%2F+Backend+%2F+DevOps+%2F+Cloud+roles+%F0%9F%9A%80" alt="Open to work" />
 </div>
