@@ -5,20 +5,20 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mytresh+Ravi+%F0%9F%91%8B;Software+Engineer+%7C+Backend+%26+DevOps;Building+Scalable+Systems+%F0%9F%9A%80;Passionate+about+AI%2FML+%26+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mytresh+Ravi+%F0%9F%91%8B;DevOps+%26+SRE+Engineer+%7C+Cloud+%26+CI%2FCD;Building+Scalable+Systems+%F0%9F%9A%80;Passionate+about+AI%2FML+%26+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** with **2+ years of experience** in Backend Development and DevOps, building high-performance, data-intensive systems in fintech and hardware domains. I thrive in Agile teams and love shipping solutions that create measurable impact.
+I'm a **DevOps & Site Reliability Engineer** with **4.5+ years of experience** designing and scaling cloud-native platforms across Azure and AWS. I specialize in CI/CD automation, Kubernetes orchestration, and Infrastructure as Code — shipping systems that are fast, reliable, and resilient under pressure.
 
 - 🎓 **MS Computer Science** @ Rowan University, NJ (GPA: 3.87/4.0)
-- 💼 Previously @ **S&P Global** and **Qualcomm**
+- 💼 Previously @ **Xoriant Solutions** and **Synectiks**
 - 🏆 **IEEE Published** researcher in AI/Computer Vision
-- ⚡ Reduced processing latency by **90%** with a Java XBRL automation tool
-- 🌐 Built FastAPI backends that accelerated hardware workflows by **40–50%**
+- ⚡ Reduced deployment time by **40%** and infrastructure spend by **25%**
+- 🌐 Sustained **99.9% uptime** across 10+ containerized microservices on AKS
 - 🤖 Deep interest in **AI/ML, real-time systems**, and **cloud infrastructure**
 - 📍 Based in **New Jersey, USA**
 
@@ -28,10 +28,8 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 
 | Company | Role | Period |
 |---|---|---|
-| 🏢 **Xoriant Solutions** | Senior Software Engineer (Cloud & DevOps) | Jun 2024 – Feb 2026 |
+| 🏢 **Xoriant Solutions** | Senior Software Engineer — Cloud & DevOps | Jun 2024 – Feb 2026 |
 | 🏢 **Synectiks** | Site Reliability Engineer | Jan 2021 – Nov 2023 |
-| 🏢 **S&P Global** | Software Engineer (ETL/Data) | Prior |
-| 🏢 **Qualcomm** | Software Engineer (Backend/Automation) | Prior |
 
 ---
 
@@ -110,40 +108,4 @@ I'm a **Software Engineer** with **2+ years of experience** in Backend Developme
 | ☁️ | AWS Cloud Practitioner Essentials |
 | 🐧 | Linux Server Management & Security |
 | 🤖 | Generative AI Fundamentals — Databricks |
-| 🐍 | Python Essential Training |
-| ☁️ | AWS Essential Training for Developers |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MytreshR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MytreshR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MytreshR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mytresh-ravi-050349140/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MytreshR)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mytreshravi.xyz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mytreshravi26@gmail.com)
-[![IEEE](https://img.shields.io/badge/IEEE_Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/10100209)
-
-</div>
-
----
-
-<div align="center">
-  <i>💡 "Building systems that scale, solving problems that matter."</i>
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Open+to+Full-Time+SWE+%2F+Backend+%2F+DevOps+%2F+Cloud+roles+%F0%9F%9A%80" alt="Open to work" />
-</div>
+| 🐍 |
